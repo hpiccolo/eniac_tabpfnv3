@@ -1,6 +1,6 @@
 # Benchmarking Automated Machine Learning and TabPFN v3 for Molecular Toxicity Prediction
 
-This repository contains the experimental framework used to predict molecular toxicity and adverse effects across the **Tox21** and **SIDER** datasets. The project compares traditional tree-based ensemble models (Random Forest and XGBoost) against state-of-the-art In-Context Learning via **TabPFN v3**.
+This repository contains the experimental framework used to predict molecular toxicity and adverse effects across the **Tox21** and **SIDER** datasets. The project compares traditional tree-based ensemble models (Random Forest and XGBoost) against TabPFN v3.
 
 ---
 
